@@ -1,1 +1,1 @@
-Esta es la licencia de mi proyecto
+Esta es la licencia de los proyecto
